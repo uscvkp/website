@@ -1,0 +1,23 @@
+---
+layout: page
+title: Posters
+heading: Computer Engineering Posters
+permalink: /posters/
+order: 5
+type: top-level
+---
+
+
+  {%for post in site.data.posters%}
+    <a title="View in a New Window" target="_blank" href="/images/posters/jpg/{{post.jpg}}"/>
+    <h4>{{post.title}}</h4>
+    </a>
+    <a title="View in a New Window" target="_blank" href="/images/posters/jpg/{{post.jpg}}"/>
+      <img style="border: 1px solid #ccc" src="/images/posters/jpg/{{post.jpg}}"/>
+    </a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  {% endfor %}

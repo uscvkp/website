@@ -1,0 +1,51 @@
+<!--
+ |  /_inclues/header.html
+ |
+ |  The site's top bootstrap navigation
+-->
+
+
+<header class="site-header">
+
+<div class="wrapper">
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+
+      <div class="navbar-header">
+        <!-- mobile-button -->
+        <button type="button"
+                class="navbar-toggle collapsed"
+                data-toggle="collapse"
+                data-target="#navbar"
+                aria-expanded="false"
+                aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button><!--/.mobile-button -->
+        <a class="navbar-brand" href="/">
+          Dr. Jason Bakos
+        </a>
+      </div> <!--/.nav-header -->
+
+
+      <div id="navbar" class="navbar-collapse collapse">
+        {% assign sorted_pages = site.my_pages | sort:"order" %}
+          <ul class="nav navbar-nav navbar-right">
+            <!-- page-list-for-loop -->
+            {% for this in sorted_pages %}
+              <li {% if page.url == this.url%}class="active"{% endif %}>
+                <a href="{{ this.url | prepend: site.baseurl }}">
+                  {{ this.title }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+      </div><!--/.nav-collapse -->
+
+    </div>
+  </nav>
+</div>
+</header>

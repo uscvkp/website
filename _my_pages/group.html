@@ -1,0 +1,60 @@
+---
+layout: page
+title: Group
+heading: Heterogeneous & <br> <center>Reconfigurable Computing</center>
+permalink: /group/
+order: 3
+type: top-level
+---
+
+
+<center>
+  <img src="/images/herc_logo.jpg" class="logo">
+</center>
+
+
+<br><br><br><br>
+<h2>Mission</h2>
+<p>
+The Heterogeneous and Reconfigurable Computing (HeRC) Lab develops technologies
+that enable the practical application of emerging and special-purpose processing
+technologies for scientific and real-time embedded computing.  This includes
+field programmable, massively parallel, and processor-in-memory architectures.
+The lab develops artifacts that include development tools, programmer
+abstractions, and deployed applications, and also performs comparative analyses
+of competing architectures.
+</p>
+
+
+
+<br><br>
+<h2>Current Members</h2>
+{% assign current_members = site.data.members | where: "status", "current" %}
+{% for member in current_members %}
+  <div class="polaroid">
+    <img src="/images/{{member.img}}" class="group_photo"/>
+    <div class="my_container">
+      {{member.name}}<br/>
+  	  {{member.country}}<br/>
+      {{member.title}}
+    </div>
+  </div>
+{% endfor %}
+
+
+
+
+<br style="clear:both">
+<br><br><br><br>
+<h2>Alumni Members</h2>
+{% assign alumni_members = site.data.members | where: "status", "alumnus" %}
+{% for member in alumni_members %}
+  <div class="polaroid">
+    <img src="/images/{{member.img}}" class="group_photo"/>
+    <div class="my_container">
+      {{member.name}}<br/>
+  	  {{member.year}}<br/>
+      {{member.title}}<br/>
+    </div>
+  </div>
+{% endfor %}

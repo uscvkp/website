@@ -1,0 +1,37 @@
+
+
+
+- title        : SHF&#58; Small Collaborative Research. The Automata Programming Paradigm for Genomic Analysis (2014-2017)
+  image        : nsf.png
+  link         : https://www.nsf.gov/awardsearch/showAward?AWD_ID=1421059
+  description  : >
+                 The objective of this project is to develop applications,
+                 development tools, and abstractions for automata processing,
+                 an emerging processing technology comprised of a massively
+                 parallel array of elements that form nondeterministic finite
+                 automata.
+
+
+
+- title        : Automated SoC Resource Mapping for Embedded Computer Vision Applications (2017-2019)
+  image        : ti.png
+  link         : ""
+  description  : >
+                 This project will develop a runtime system for autonomously
+                 mapping computer vision kernel functions to various processors
+                 in a new type of heterogeneous multiprocessor system-on-chip
+                 architecture designed by Texas Instruments.
+
+
+
+- title        : Development of a Universal Controller Architecture for SiC Based Power Electronic Building Blocks (2015-2017)
+  image        : onr.png
+  link         : ""
+  description  : >
+                 The objective of this project is to develop a distributed controller
+                 framework for medium voltage DC converters.  The framework is
+                 comprised of an array of Field Programmable Gate Arrays (FPGAs)
+                 interconnected on a multi-hop network with optical links.
+
+
+

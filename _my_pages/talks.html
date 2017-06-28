@@ -1,0 +1,53 @@
+---
+layout: page
+title: Talks
+heading: Talks
+permalink: /talks/
+order: 4
+type: top-level
+---
+
+
+{% for t in site.data.talks %}
+  {% if t.older != true %}
+    <p>
+      {{t.title}}
+      <br>
+      Download :
+      <a href="/assets/talks/{{t.link}}" title="Download document">
+        <img style="position:relative; top: 2px;"
+             src="/images/ppt_icon.gif"
+             alt="Ppt document" />
+        [ppt]
+      </a>
+    </p>
+  {% endif %}
+{% endfor %}
+
+<br>
+<br>
+<br>
+<h3>Older Talks</h3>
+<br>
+{% for t in site.data.talks %}
+  {% if t.older == true %}
+    <p>
+      {{t.title}}
+      <br>
+      {% if t.topic %}
+        {{t.topic}}
+        <br>
+      {% endif %}
+      Download :
+      <a href="/assets/talks/{{t.link}}" title="Download document">
+        <img style="position:relative; top: 2px;"
+             src="/images/ppt_icon.gif"
+             alt="Ppt document" />
+        [ppt]
+      </a>
+    </p>
+  {% endif %}
+{% endfor %}
+
+
+

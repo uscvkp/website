@@ -1,0 +1,97 @@
+- name:    Jason D. Bakos
+  status:  current
+  country: U.S.A.
+  title:   Lab Director
+  img:     bakos.jpg
+
+- name:    Madushan Abeysinghe
+  status:  current
+  country: Sri Lanka
+  title:   Ph.D. Student
+  img:     abeysinghe.jpg
+
+- name:    Rasha Karakchi
+  status:  current
+  country: Iraq
+  title:   Ph.D. Student
+  img:     karakchi.jpg
+
+- name:    Ivan Panchenko
+  status:  current
+  country: Ukraine
+  title:   Ph.D. Student
+  img:     panchenko.jpg
+
+- name:    Steve Rubin
+  status:  current
+  country: Russia
+  title:   Ph.D. Student
+  img:     rubin.jpg
+
+- name:    Lacie Cochran
+  status:  current
+  country: U.S.A.
+  title:   M.S. Student
+  img:     cochran.jpg
+
+- name:    Krishna Kalusani
+  status:  current
+  country: India
+  title:   M.S. Student
+  img:     kalusani.jpg
+
+
+- name:    Stephanie Rogers, M.S.
+  status:  alumnus
+  year:    2009
+  title:   Intel
+  img:     rogers.jpg
+
+- name:    Tiffant Mintz, Ph.D.
+  status:  alumnus
+  year:    2010
+  title:   Oak Ridge Nat'l Lab
+  img:     mintz.jpg
+
+- name:    Yan Zhang, Ph.D.
+  status:  alumnus
+  year:    2012
+  title:   SK Hynix
+  img:     zhangy.jpg
+
+- name:    Shaun Gause, M.S.
+  status:  alumnus
+  year:    2013
+  title:   U.S. Homeland Security
+  img:     gause.jpg
+
+- name:    Krishna Nagar, Ph.D.
+  status:  alumnus
+  year:    2013
+  title:   Intel/Altera
+  img:     nagar.jpg
+
+- name:    Yang Gao, Ph.D.
+  status:  alumnus
+  year:    2014
+  title:   Google
+  img:     gao.jpg
+
+- name:    Fan Zhang, Ph.D.
+  status:  alumnus
+  year:    2014
+  title:   Google
+  img:     zhangf.jpg
+
+- name:    Zheming Jin, Ph.D.
+  status:  alumnus
+  year:    2014
+  title:   Argonne Nat'l Lab
+  img:     jin.jpg
+
+- name:    Jordan Bradshaw, Ph.D.
+  status:  alumnus
+  year:    2016
+  title:   Elauwit
+  img:     bradshaw.jpg
+

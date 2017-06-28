@@ -1,0 +1,379 @@
+
+
+
+- title       : Control System Communication Architecture for Power Electronic Building Blocks
+  year        : 2017
+  source      : Proc. IEEE Electric Ship Technologies Symposium 2017 (ESTS 2017).
+  authors     : Ivan Panchenko, Jason D. Bakos, Herbert L. Ginn
+  download    : ""
+
+
+
+- title       : System-Level, FPGA-Based, Real-Time Simulation of Ship Power Systems
+  year        : 2017
+  source      : IEEE Trans. on Energy Conversion Systems, Vol. 32, No. 2.
+  authors     : Matthew Milton, Andrea Benigni, Jason Bakos
+  download    : tecs17_paper.pdf
+
+
+
+- title       : High-Level Synthesis of a Genomic Database Search Enginek
+  year        : 2016
+  source      : Proc. 2016 International Conference on Reconfigurable Computing and FPGAs (ReConFig 2016).
+  authors     : Rasha Karakchi, Jordan Bradshaw, Jason D. Bakos
+  download    : reconfig16_paper.pdf
+
+
+
+- title       : Two-Hit Filter Synthesis for Genomic Database Search
+  year        : 2016
+  source      : Proc. 24th IEEE International Symposium on Field-Programmable Custom Computing Machines.
+  authors     : Jordan Bradshaw, Rasha Karakchi, Jason D. Bakos
+  download    : ""
+
+
+
+- title       : Embedded Systems&#58; ARM Programming and Optimization
+  year        : 2015
+  source      : Elsevier, 2015 (textbook).
+  authors     : Jason D. Bakos
+  download    : ""
+
+
+
+- title       : Memory Interface Design for 3D Stencil Kernels on a Massively Parallel Memory System
+  year        : 2015
+  source      : ACM Transactions on Reconfigurable Technology and Systems (TRETS), Vol. 8, Issue 4, 2015.
+  authors     : Zheming Jin, Jason D. Bakos
+  download    : trets15_paper.pdf
+
+
+
+- title       : Lucas-Kanade Optical Flow Estimation on the TI C66x Digital Signal Processor
+  year        : 2014
+  source      : Proc. 18th Annual IEEE High Performance Extreme Computing Conference (HPEC 2014), Sept. 2014.
+  authors     : Fan Zhang, Yang Gao, Jason D. Bakos
+  download    : hpec14_paper1.pdf
+
+
+
+- title       : Sparse Matrix-Vector Multiply on the Keystone II Digital Signal Processor
+  year        : 2014
+  source      : Proc. 18th Annual IEEE High Performance Extreme Computing Conference (HPEC 2014), Sept. 2014.
+  authors     : Yang Gao, Fan Zhang, Jason D. Bakos
+  download    : hpec14_paper2.pdf
+
+
+
+- title       : Large-scale Pairwise Sequence Alignments on a Large-scale GPU Cluster
+  year        : 2014
+  source      : IEEE Design and Test, January/February 2014.
+  authors     : Ibrahim Savran, Yang Gao, Jason D. Bakos
+  download    : dt14_paper.pdf
+
+
+
+- title       : Accuracy, Cost, and Performance Tradeoffs for Floating-Point Accumulation
+  year        : 2013
+  source      : Proc. 2013 International Conference on Reconfigurable Computing and FPGAs (ReConFig 2013).
+  authors     : Krishna Nagar, Jason D. Bakos
+  download    : reconfig13_paper.pdf
+
+
+
+- title       : Sparse Matrix-Vector Multiply on the Texas Instruments C6678 Digital Signal Processor
+  year        : 2013
+  source      : Proc. The 24th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP 2013), Washington D.C., June 5-7, 2013.
+  authors     : Yang Gao, Jason D. Bakos
+  download    : asap13_paper.pdf
+
+
+
+- title       : Memory Access Scheduling on the Convey HC-1
+  year        : 2013
+  source      : Proc. The 21st IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM'13), Seattle, Washington, April 28-30, 2013.
+  authors     : Zheming Jin, Jason D. Bakos
+  download    : fccm13_paper.pdf
+
+
+
+- title       : Accelerating Frequent Itemset Mining on Graphics Processing Units
+  year        : 2013
+  source      : Journal of Supercomputing, February 2013, DOI 10.1007/s11227-013-0887-x.
+  authors     : Fan Zhang, Yan Zhang, Jason D. Bakos
+  download    : jsuper13_paper.pdf
+
+
+
+- title       : A Heuristic Scheduler for Port-Constrained Floating-Point Pipelines
+  year        : 2013
+  source      : International Journal of Reconfigurable Computing, Vol. 2013, Article ID 849545, 9 pages, 2013. doi:10.1155/2013/849545.
+  authors     : Zheming Jin, Jason D. Bakos
+  download    : ijrc13_paper.pdf
+
+
+
+- title       : Extending the BEAGLE Library to a Multi-FPGA Platform
+  year        : 2013
+  source      : BMC Bioinformatics, BMC Bioinformatics 2013, 14:25.
+  authors     : Zheming Jin, Jason D. Bakos
+  download    : bmcbio13_paper.pdf
+
+
+
+- title       : An FPGA-Based Accelerator for Frequent Itemset Mining
+  year        : 2013
+  source      : ACM Trans. Reconfigurable Technology and Systems (TRETS), Vol. 6, Issue 1, May 2013.
+  authors     : Yan Zhang, Fan Zhang, Zheming Jin, Jason D. Bakos
+  download    : trets13_paper.pdf
+
+
+
+- title       : GPU Acceleration of Pyrosequencing Noise Removal
+  year        : 2012
+  source      : Proc. 2012 Symposium on Application Accelerators in High Performance Computing (SAAHPC 2012), Argonne National Laboratory, July 10-11, 2012.
+  authors     : Yang Gao, Jason D. Bakos
+  download    : saahpc12_paper.pdf
+
+
+
+- title       : A Cluster-on-a-Chip Architecture for High-Throughout Phylogeny Search
+  year        : 2012
+  source      : IEEE Trans. on Parallel and Distributed Systems, Vol. 23, No. 4, April 2012.
+  authors     : Tiffany M. Mintz, Jason D. Bakos
+  download    : tpds12_paper.pdf
+
+
+
+- title       : Frequent Itemset Mining on Large-Scale Shared Memory Machines
+  year        : 2011
+  source      : Proc. IEEE International Conference on Cluster Computing (CLUSTER 2011), Sept. 26-30, 2011.
+  authors     : Yan Zhang, Fan Zhang, Jason D. Bakos
+  download    : cluster11_paper_1.pdf
+
+
+
+- title       : GPApriori&#58; GPU-Accelerated Frequent Itemset Mining
+  year        : 2011
+  source      : Proc. IEEE International Conference on Cluster Computing (CLUSTER 2011), Sept. 26-30, 2011.
+  authors     : Fan Zhang, Yan Zhang, Jason D. Bakos
+  download    : cluster11_paper_2.pdf
+
+
+
+- title       : A Sparse Matrix Personality for the Convey HC-1
+  year        : 2011
+  source      : Proc. 19th Annual IEEE International Symposium on Field Programmable Custom Computing Machines (FCCM'11), May 1-3, 2011.
+  authors     : Krishna K. Nagar, Jason D. Bakos
+  download    : fccm11_paper.pdf
+
+
+
+- title       : High-Performance Heterogeneous Computing with the Convey HC-1
+  year        : 2010
+  source      : Computing in Science and Engineering, Vol. 12, No. 6, November/December 2010.
+  authors     : Jason D. Bakos
+  download    : cise10_paper.pdf
+
+
+
+- title       : Integrated Circuit Implementation for a GaN HFET Driver Circuit
+  year        : 2010
+  source      : IEEE Transactions on Industry Applications, Vol. 46, No. 5, Sept/Oct. 2010.
+  authors     : Bo Wang, Marco Riva, Jason D. Bakos, Antonello Monti
+  download    : tia10_paper.pdf
+
+
+
+- title       : GPU Acceleration of Near-Minimal Logic Minimization
+  year        : 2010
+  source      : Proc. 2010 Symposium on Application Accelerators in High Performance Computing (SAAHPC'10), July 13-15, 2010.
+  authors     : Ibrahim Savran, Jason D. Bakos
+  download    : saahpc10_paper.pdf
+
+
+
+- title       : FPGA acceleration of the phylogenetic likelihood function for Bayesian MCMC inference methods
+  year        : 2010
+  source      : BMC Bioinformatics 2010, 11:184.
+  authors     : Stephanie Zierke, Jason D. Bakos
+  download    : bmcbio10_paper.pdf
+
+
+
+- title       : A High-Performance Double Precision Accumulator
+  year        : 2009
+  source      : Proc. IEEE International Conference on Field-Programmable Technology (IC-FPT'09), Dec. 9-11, 2009.
+  authors     : Krishna. K. Nagar, Jason D. Bakos
+  download    : icfpt09_paper2.pdf
+
+
+
+- title       : FPGA vs. GPU for Sparse Matrix Vector Multiply
+  year        : 2009
+  source      : Proc. IEEE International Conference on Field-Programmable Technology (IC-FPT'09), Dec. 9-11, 2009.
+  authors     : Yan Zhang, Yasser Shalabi, Rishabh Jain, Krishna K. Nagar, Jason D. Bakos
+  download    : icfpt09_paper1.pdf
+
+
+
+- title       : An Integrated Reduction Technique for a Double Precision Accumulator
+  year        : 2009
+  source      : Proc. Third International Workshop on High-Performance Reconfigurable Computing Technology and Applications (HPRCTA'09), held in conjunction with Supercomputing 2009 (SC'09), Nov. 15, 2009.
+  authors     : Krishna K. Nagar, Jason D. Bakos
+  download    : hprcta09_paper.pdf
+
+
+
+- title       : Exploiting Matrix Symmetry to Improve FPGA-Accelerated Conjugate Gradient
+  year        : 2009
+  source      : Proc. 17th Annual IEEE International Symposium on Field Programmable Custom Computing Machines (FCCM'09), April 5-8, 2009.
+  authors     : Jason D. Bakos, Krishna K. Nagar
+  download    : fccm09_paper.pdf
+
+
+
+- title       : A Special-Purpose Architecture for Solving the Breakpoint Median Problem
+  year        : 2008
+  source      : Proc. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 16, No. 12, Dec. 2008.
+  authors     : Jason D. Bakos, Panormitis E. Elenis
+  download    : vlsi08_paper.pdf
+
+
+
+- title       : Integrated Circuit Implementation for a GaN HFETs Driver Circuit
+  year        : 2008
+  source      : Proc. IEEE Applied Power Electronics Conference and Exposition (APEC'08), Austin, TX, Feb. 24-28, 2008.
+  authors     : B. Wang, M. Riva, J. Bakos, A. Monti
+  download    : apec2008_paper.pdf
+
+
+
+- title       : FPGA Acceleration of Phylogeny Reconstruction for Whole Genome Data
+  year        : 2007
+  source      : Proc. 7th IEEE International Symposium on Bioinformatics & Bioengineering (BIBE'07), Boston, MA, 14-17 Oct. 2007.
+  authors     : Jason D. Bakos, Panormitis E. Elenis, Jijun Tang
+  download    : bibe07_paper.pdf
+
+
+
+- title       : FPGA Acceleration of Gene Rearrangement Analysis
+  year        : 2007
+  source      : Proc. 15th Annual IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM'07), April 23-25, 2007.
+  authors     : Jason D. Bakos
+  download    : fccm07_paper.pdf
+
+
+
+- title       : Lightweight Error Correction Coding for System-Level Interconnects
+  year        : 2007
+  source      : IEEE Transactions on Computers, Vol. 56, No. 3, March 2007.
+  authors     : Jason D. Bakos, Donald M. Chiarulli, Steven P. Levitan
+  download    : tc56_03_paper.pdf
+
+
+
+- title       : Predictive Load Balancing for Interconnected FPGAs
+  year        : 2006
+  source      : Proc. 16th International Conference on Field Programmable Logic and Applications (FPL'06), Madrid, Spain, August 28-30, 2006.
+  authors     : Jason D. Bakos, Charles L. Cathey, E. Allen Michalski
+  download    : fpl06_paper.pdf
+
+
+
+- title       : A Reconfigurable Distributed Computing Fabric Exploiting Multilevel Parallelism
+  year        : 2006
+  source      : Proc. 14th Annual IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM'06), April 24-26, 2006.
+  authors     : Charles L. Cathey, Jason D. Bakos, Duncan A. Buell
+  download    : fccm06_paper.pdf
+
+
+
+- title       : Efficient Optical Communications Using Multibit Differential Signaling
+  year        : 2006
+  source      : Proc. SPIE Symposium on Optoelectronics, Photonics West&#58; Photonics Packaging and Integration VIII, Paper No. 6126-16, San Jose, CA, 21-26 January 2006.
+  authors     : Donald M. Chiarulli, Sam Dickerson, Jason D. Bakos, Joel R. Martin, Steven P. Levitan
+  download    : pw2006_paper.pdf
+
+
+
+- title       : Area, Power, and Pin Efficient Bus Transceiver Using Multi-Bit-Differential Signaling
+  year        : 2005
+  source      : Proc. IEEE International Symposium on Circuits and Systems (ISCAS'05), pp. 1662 - 1665 Vol. 2, Kobe, Japan, May 23-26, 2005.
+  authors     : Donald M. Chiarulli, Jason D. Bakos, Joel R. Martin, Steven P. Levitan
+  download    : iscas05_paper.pdf
+
+
+
+- title       : Area, power, and pin efficient bus structures using multi-bit-differential signaling
+  year        : 2005
+  source      : Proc. SPIE Symposium on Microtechnologies for the New Millennium 2005, pp. 5837-04, VLSI Circuits and Systems II, 5837-4, Sevilla, Spain, May 9-11, 2005.
+  authors     : Donald M. Chiarulli, Jason D. Bakos, Joel R. Martin, Steven P. Levitan
+  download    : spie05_paper.pdf
+
+
+
+- title       : Power Efficient Communication Using Multi-Bit-Differential Signaling
+  year        : 2005
+  source      : Proc. IEEE/LEOS 16th Annual Workshop on Interconnections within High-Speed Digital Systems, Santa Fe, NM, May 8-11, 2005.
+  authors     : Steven P. Levitan, Donald M. Chiarulli, Sam Dickerson, Jason Bakos, Joel Martin
+  download    : ""
+
+
+
+- title       : Active Substrates for Optoelectronic Interconnect
+  year        : 2004
+  source      : Proc. IEEE International Symposium on Circuits and Systems (ISCAS'04), Volume 5, pp. V-592 - V-595, Vancouver, Canada, May 23-26, 2004.
+  authors     : Donald M. Chiarulli, Steven P. Levitan, Jason Bakos, Charles Kuznia
+  download    : iscas04_paper.pdf
+
+
+
+- title       : Photonic Packaging for Mixed-Technology Sensor Systems
+  year        : 2004
+  source      : Topical Meeting on Optics in Computing, European Optical Society (OC'04), Integrated Photonics Research and Optics in Computing (IPR-OiC’2004), pp. 113-114, Engelberg, Switzerland, April 21-23, 2004.
+  authors     : Donald Chiarulli, Jason Bakos, Leo Selavo, Steven Levitan, John Hansson, Michael Weisser
+  download    : oic2004_paper.pdf
+
+
+
+- title       : Modeling and Simulation of Fiber Image Guide Multi-Chip Modules for MOEMS Applications
+  year        : 2004
+  source      : Proc. SPIE Photonics West&#58; Micromachining and Microfabrication/MOEMS and Miniaturized Systems IV, Vol. 5346-18, pp. 141-150, San Jose, CA, 25-30 January 2004.
+  authors     : Steven P. Levitan, Timothy P. Kurzweg, Jose A. Martinez, Mark Kahrs, Jason Bakos, Craig Windish, Jason Boles, John Hansson, Michael Weisser, Charles Kuznia, Donald M. Chiarulli
+  download    : pw2004_paper.pdf
+
+
+
+- title       : Optoelectronic Multi-Chip Module Demonstrator System
+  year        : 2003
+  source      : in Optics in Computing, OSA Technical Digest, (Optical Society of America, Washington DC, 2003) pp 117-119.
+  authors     : Jason Bakos, Donald Chiarulli, and Steven Levitan
+  download    : oc2003_paper.pdf
+
+
+
+- title       : Optoelectronic Multi-Chip Modules
+  year        : 2003
+  source      : Proc. 10th Annual Conference of Mixed Design of Integrated Circuits and Systems (MIXDES'03), Lodz, Poland, June 26-28, 2003.
+  authors     : D. Chiarulli, S. Levitan, J. Bakos
+  download    : mixdes2003_paper.pdf
+
+
+
+- title       : Encoding Benefits for Fast Optical Transceivers
+  year        : 2003
+  source      : Proc. 14th IEEE-LEOS Annual Workshop on Interconnections within High-Speed Digital Systems, Santa Fe, New Mexico, 4 – 7 May 2003.
+  authors     : Leo Selavo, Jason Bakos, Donald M. Chiarulli, Steven P. Levitan
+  download    : ""
+
+
+
+- title       : Optoelectronic Multi-Chip-Module Implementation of a 64 Channel Crossbar Switch
+  year        : 2002
+  source      : Proc. International Conference of Optics in Computing (OC'02) pp. 161-163, Taipei, Taiwan, April 8 - 11, 2002.
+  authors     : J. D. Bakos, D. M. Chiarulli, and S. P. Levitan
+  download    : oc2002_paper.pdf
+
+
+
