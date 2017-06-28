@@ -16,7 +16,7 @@
 
 ## 2. General Info:<a name="2"/>
 * To clone the repo:
-`git clone https://github.com/bakoswebsite/jekyll.git`
+`git clone https://github.com/uscvkp/website.git`
 * To edit the site locally:
 `sudo jekyll serve`
 * To build and upload the site:
